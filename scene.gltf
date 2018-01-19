@@ -2409,7 +2409,7 @@
         0
       ],
       "name": "01___Default",
-      "normal": {
+      "normalTexture": {
         "index": 1,
         "scale": 1,
         "texCoord": 0
@@ -2419,19 +2419,19 @@
         "strength": 1,
         "texCoord": 0
       },
-      "metallicRoughness": {
+      "pbrMetallicRoughness": {
         "baseColorFactor": [
           1,
           1,
           1,
           1
         ],
-        "baseColor": {
+        "baseColorTexture": {
           "index": 2,
           "texCoord": 0
         },
         "metallicFactor": 1,
-        "metallicRoughness": {
+        "metallicRoughnessTexture": {
           "index": 0,
           "texCoord": 0
         },
